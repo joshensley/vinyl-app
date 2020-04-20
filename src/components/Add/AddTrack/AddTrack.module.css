@@ -1,0 +1,32 @@
+.AddTrackDisplay {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.SearchBox {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: monospace;
+    border-radius: 25px;
+    border: 2px solid white;
+    width: 300px;
+    height: 50px;
+}
+
+.CenterButtons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+select, option, input {
+    text-align-last: center;
+}

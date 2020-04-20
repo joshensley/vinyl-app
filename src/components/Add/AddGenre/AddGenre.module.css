@@ -1,0 +1,29 @@
+.AddGenre {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.InputBox {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: monospace;
+    border-radius: 25px;
+    border: 2px solid white;
+    width: 800px;
+    height: 50px;
+}
+
+.SubmitButton {
+    margin: 40px; 
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: monospace;
+    border-radius: 25px;
+}

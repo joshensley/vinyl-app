@@ -1,0 +1,26 @@
+.DivElement {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.SubmitButton {
+    margin: 5px; 
+    padding: 5px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    font-family: monospace;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+
+.SubmitButton:hover {
+    background-color: rgb(93, 87, 87);
+    color: white;
+}

@@ -1,0 +1,154 @@
+{ "artist" :
+[
+    {
+        "id": 1,
+        "artist": "The Who",
+        "hidden": true,
+        "albums": [
+            {
+                "id": 1,
+                "album":"Who's Next", 
+                "year": 1971,
+                "hidden": true, 
+                "songs":[
+                    {
+                        "id":1, 
+                        "song":"Baba O'Riley"
+                    },
+                    {
+                        "id": 2,
+                        "song": "Won't Get Fooled Again"
+                    }
+                ]},
+            {
+                "id": 2,
+                "album": "Tommy", 
+                "year": 1969,
+                "hidden": true,
+                "songs": [
+                    {
+                        "id": 1,
+                        "song": "Pinball Wizard"
+                    },
+                    {
+                        "id": 2,
+                        "song": "1921"
+                    }
+                ]}
+        ]
+    },
+    {
+        "id": 2,
+        "artist": "The White Stripes",
+        "hidden": true,
+        "albums": [
+            {
+                "id": 1, 
+                "album": "Elephant", 
+                "year": 2005,
+                "hidden": true,
+                    "songs": [
+                        {
+                            "id": 1,
+                            "song": "Seven Nation Army"
+                        },
+                        {
+                            "id": 2,
+                            "song": "Math"
+                        }
+            ]},
+            {
+                "id": 2, 
+                "album": "Get Behind Me Satan", 
+                "year":2006,
+                "hidden": true,
+                "songs": [
+                    {
+                        "id": 1,
+                        "song": "Blue Orchard"
+                    },
+                    {
+                        "id": 2,
+                        "song": "Doorbell"
+                    }
+                ]}
+        ]
+    },
+    {
+        "id": 3,
+        "artist": "The Beach Boys",
+        "hidden": true,
+        "albums": [
+            {
+                "id": 1, 
+                "album": "Endless Summer", 
+                "year": 1973,
+                "hidden": true,
+                "songs": [
+                    {
+                        "id": 1,
+                        "song": "Surfin' Safari"
+                    },
+                    {
+                        "id": 2,
+                        "song": "Fun Fun Fun"
+                    }
+                ]},
+            {
+                "id": 2, 
+                "album": "Pet Sounds", 
+                "year": 1966,
+                "hidden": true,
+                "songs": [
+                    {
+                        "id": 1,
+                        "song": "Whouldn't It Be Nice"
+                    },
+                    {
+                        "id": 2,
+                        "song": "God Only Knows"
+                    }
+                ]}
+        ]
+    },
+    {
+        "id": 4,
+        "artist": "The Strokes",
+        "hidden": true,
+        "albums": [
+            {
+                "id": 1,
+                "album": "Is This It",
+                "year": 2001,
+                "hidden": true,
+                "songs": [
+                    {
+                        "id": 1,
+                        "song": "Is This It"
+                    },
+                    {
+                        "id": 2,
+                        "song": "The Mordern Age"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "album": "Room On Fire",
+                "year": 2003,
+                "hidden": true,
+                "songs": [
+                    {
+                        "id": 1,
+                        "song": "What Ever Happened?"
+                    },
+                    {
+                        "id": 2,
+                        "song": "Reptilia"
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

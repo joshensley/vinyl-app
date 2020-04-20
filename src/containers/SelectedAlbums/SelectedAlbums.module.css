@@ -1,0 +1,28 @@
+.SelectedAlbums {
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 0 5px 7px gray;
+    background-color: white;
+    width: 350px;
+    padding: 25px 10px 0px 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+.SelectedAlbums:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    box-shadow: 0 5px 7px black;
+
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
